@@ -27,9 +27,6 @@ footer {
     padding-bottom: 25px;
 }
 
-footer p{
-}
-
 .logo-header {
     width: 25%;
 }
@@ -231,4 +228,201 @@ footer p{
 
 
 .direitos-autorais{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+@media (max-width: 875px){
+    #introducao{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #introdução h2 {
+        text-align: center;
+    }
+
+    #introducao div {
+        padding-left: 0;
+        padding-right: 0;
+        width: 80%;
+    }
+
+    header{
+        padding-left: 0;
+        padding-right: 0;
+        flex-direction: column;
+    }
+
+    .menu ul{
+        padding-left: 0;
+        margin: auto;
+    }
+
+    .logo-header{
+        width: 300px;
+    }
+
+    .conteudo-Homens-Aranha{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Homens-Aranha {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Homens-Aranha h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Homens-Aranha h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Homens-Aranha {
+        width: 80%;
+    }
+
+    #Triologia {
+        text-align: center;
+    }
+
+    .conteudo-Aranhaverso{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Aranhaverso {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Aranhaverso h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Aranhaverso h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Aranhaverso {
+        width: 80%;
+    }
+
+    .conteudo-Aranhaverso2{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Aranhaverso2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Aranhaverso2 h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Aranhaverso2 h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Aranhaverso2 {
+        width: 80%;
+    }
+
+    .conteudo-Vilões{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Vilões {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Vilões {
+        width: 80%;
+    }
+
+    .conteudo-Vilões2{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Vilões2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões2 h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões2 h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Vilões2 {
+        width: 80%;
+    }
+
+    .conteudo-Vilões3{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Vilões3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões3 h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Vilões3 h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .Vilões3 {
+        width: 80%;
+    }
+
+    #Curiosidades h2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #Curiosidades h3 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+    .direitos-autorais {
+        text-align: center;
+    }
 }
